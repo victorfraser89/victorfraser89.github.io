@@ -1,0 +1,36 @@
+{
+  "ads_one": {
+    "adTypes": [
+      "appOpen",
+      "banner"
+    ],
+    "banner": "ca-app-pub-6426169736041704/5550469251",
+    "interstitial": "ca-app-pub-6426169736041704/2429481894",
+    "splash": "ca-app-pub-6426169736041704/7954298989",
+    "native": "ca-app-pub-6426169736041704/1436992096",
+    "appOpen": "ca-app-pub-6426169736041704/9521503856",
+    "splashOpen": "ca-app-pub-6426169736041704/3871583740",
+    "reward": "ca-app-pub-6426169736041704/8932338731"
+  },
+  "ads_two": {
+    "adTypes": [
+      "appOpen",
+      "banner"
+    ],
+    "banner": "6d06aefcc7a1bb38",
+    "interstitial": "7424da8aa02bad33",
+    "splash": "86ec049e2dc32e93",
+    "native": "508e03bc91fc607a",
+    "appOpen": "aa49dfee085d976e",
+    "splashOpen": "",
+    "reward": "041b4982c2aa5bf7"
+  },
+  "ads_three": {
+    "ad_sort": [
+      "admob",
+      "applovin"
+    ],
+    "splash": "",
+    "ads_type": "111"
+  }
+}
